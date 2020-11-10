@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: "public class Main {\n\n    public static void main(String[] args) {\n\n \
+    \       // create threads and start them using the class RunnableWorker\n    }\n\
+    }\n\n// Don't change the code below       \nclass RunnableWorker implements Runnable\
+    \ {\n\n    @Override\n    public void run() {\n        final String name = Thread.currentThread().getName();\n\
+    \n        if (name.startsWith(\"worker-\")) {\n            System.out.println(\"\
+    too hard calculations...\");\n        } else {\n            return;\n        }\n\
+    \    }\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2520
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2520">JetBrains
+    Academy</a></html>
+  time: Tue, 27 Oct 2020 23:05:23 UTC
+record: -1

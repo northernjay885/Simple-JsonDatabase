@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/JSON Database/task" />
+            <option value="$PROJECT_DIR$/Problems/ASCII Art" />
+            <option value="$PROJECT_DIR$/Problems/Calculate the number of distinct characters" />
+            <option value="$PROJECT_DIR$/Problems/Check whether a number is prime" />
+            <option value="$PROJECT_DIR$/Problems/Complete a class" />
+            <option value="$PROJECT_DIR$/Problems/Complete the eager singleton" />
+            <option value="$PROJECT_DIR$/Problems/Countdown counter" />
+            <option value="$PROJECT_DIR$/Problems/Counting clicks" />
+            <option value="$PROJECT_DIR$/Problems/Counting number of instances" />
+            <option value="$PROJECT_DIR$/Problems/Descending sorting swaps" />
+            <option value="$PROJECT_DIR$/Problems/Execute Callable objects" />
+            <option value="$PROJECT_DIR$/Problems/Finding and starting a thread" />
+            <option value="$PROJECT_DIR$/Problems/Forex Broker" />
+            <option value="$PROJECT_DIR$/Problems/Getting current thread info" />
+            <option value="$PROJECT_DIR$/Problems/Handling interruptions" />
+            <option value="$PROJECT_DIR$/Problems/How many Callable objects are there?" />
+            <option value="$PROJECT_DIR$/Problems/How many tasks are finished" />
+            <option value="$PROJECT_DIR$/Problems/Interrupting a thread" />
+            <option value="$PROJECT_DIR$/Problems/Inverting streams" />
+            <option value="$PROJECT_DIR$/Problems/Message notifier as a thread" />
+            <option value="$PROJECT_DIR$/Problems/Messaging" />
+            <option value="$PROJECT_DIR$/Problems/Multithreaded counter" />
+            <option value="$PROJECT_DIR$/Problems/Ordering the execution of threads" />
+            <option value="$PROJECT_DIR$/Problems/Palindrome or not" />
+            <option value="$PROJECT_DIR$/Problems/Powers of two" />
+            <option value="$PROJECT_DIR$/Problems/Prime numbers" />
+            <option value="$PROJECT_DIR$/Problems/Remote Controller" />
+            <option value="$PROJECT_DIR$/Problems/Secret codes" />
+            <option value="$PROJECT_DIR$/Problems/Starting threads" />
+            <option value="$PROJECT_DIR$/Problems/String processor" />
+            <option value="$PROJECT_DIR$/Problems/Swaps" />
+            <option value="$PROJECT_DIR$/Problems/The average salary" />
+            <option value="$PROJECT_DIR$/Problems/The number of required shifts" />
+            <option value="$PROJECT_DIR$/Problems/The product of squares" />
+            <option value="$PROJECT_DIR$/Problems/The ten most frequent words" />
+            <option value="$PROJECT_DIR$/Problems/The total number of employees" />
+            <option value="$PROJECT_DIR$/Problems/The total sum of canceled transactions" />
+            <option value="$PROJECT_DIR$/Problems/Undo command" />
+            <option value="$PROJECT_DIR$/Problems/VeganPizza" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

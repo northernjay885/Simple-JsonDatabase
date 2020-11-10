@@ -1,0 +1,24 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.List;
+    import java.util.concurrent.*;
+
+
+    class FutureUtils {
+
+        public static int executeCallableObjects(List<Future<Callable<Integer>>> items) {
+            // write your code here
+        }
+
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4945#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/4945#comment">JetBrains
+    Academy</a></html>
+  time: Fri, 30 Oct 2020 00:58:09 UTC
+record: -1

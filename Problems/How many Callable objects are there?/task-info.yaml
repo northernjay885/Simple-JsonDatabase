@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.concurrent.*;
+
+
+    class FutureUtils {
+
+        public static int determineCallableDepth(Callable callable) throws Exception {
+            // write your code here
+        }
+
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4946#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/4946#comment">JetBrains
+    Academy</a></html>
+  time: Fri, 30 Oct 2020 01:14:24 UTC
+record: -1
